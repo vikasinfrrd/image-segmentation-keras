@@ -29,7 +29,7 @@ Implememnation of various Deep Image Segmentation models in keras.
 * Theano 
 
 ```shell
-sudo apt-get install python-opencv
+sudo apt-get install opencv-python
 sudo pip install --upgrade theano
 sudo pip install --upgrade keras
 ```
